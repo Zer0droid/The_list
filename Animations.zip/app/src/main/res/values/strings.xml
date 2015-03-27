@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The list</string>
+    <string name="title_section1">Main</string>
+    <string name="title_section2">Personal</string>
+    <string name="title_section3">Trabajo</string>
+    <string name="title_section4">Escuela</string>
+    <string name="title_section5">Compras</string>
+    <string name="title_section6">Informacion</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Agregar tarea</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_task">Agregar Tarea</string>
+    <string name="title_activity_task_personal">Task personal</string>
+    <string name="title_activity_task__trabajo">Task_Trabajo</string>
+
+</resources>
