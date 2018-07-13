@@ -14,7 +14,7 @@ pipeline {
     stage('test') {
       steps {
         sh 'npm run test'
-        emailext(subject: 'APROBAR', body: 'Por favor aprueba', attachLog: true, to: 'tester')
+        emailext(subject: 'APROBAR', body: 'Por favor aprueba', attachLog: true, to: 'Leon')
         input 'Arpueba'
       }
     }
